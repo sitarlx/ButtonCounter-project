@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ResetButtonColor">#e93b26</color>
+    <color name="IncButtonColor">#49cb11</color>
+    <color name="DecButtonColor">#1d3eca</color>
+    <color name="BackgroundColor">#696969</color>
+
+</resources>
