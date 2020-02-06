@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Logan Sitar\'s Button Counter</string>
+    <string name="showCount">Button Counter</string>
+    <string name="inc_button">Increment Counter</string>
+    <string name="dec_button">Decrement Counter</string>
+    <string name="res_button">Reset Counter</string>
+
+</resources>
